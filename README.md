@@ -1,3 +1,26 @@
+## nmea_msgs (jazzy) - 2.1.0-4
+
+The packages in the `nmea_msgs` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy nmea_msgs --override-release-repository-push-url git@github.com:revyos-ros/nmea_msgs-release` on `Wed, 19 Jun 2024 04:37:09 -0000`
+
+The `nmea_msgs` package was released.
+
+Version of package(s) in repository `nmea_msgs`:
+
+- upstream repository: https://github.com/ros-drivers/nmea_msgs.git
+- release repository: https://github.com/revyos-ros/nmea_msgs-release.git
+- rosdistro version: `2.1.0-3`
+- old version: `2.1.0-3`
+- new version: `2.1.0-4`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## nmea_msgs (rolling) - 2.1.0-1
 
 The packages in the `nmea_msgs` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --rosdistro rolling nmea_msgs` on `Sun, 03 Sep 2023 21:57:51 -0000`
